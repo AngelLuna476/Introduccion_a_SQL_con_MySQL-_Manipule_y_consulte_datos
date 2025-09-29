@@ -2,8 +2,8 @@
 
 <p align="center"><strong><em>Programa de especialización ONE TECH EXPLORER por parte de ORACLE NEX EDUCATION en conjunto con ALURA LATAM</em></strong></p>
 
-Se instalará y aprenderá a trabajar con SQL, utilizando MySQL. Se irá a convertir, formatear datos y generar relatórios con las principales funciones de SQL.
-Con análisis en tiempo real, se podrá obtener informaciones transformadoras para negocios o para las empresas.
+Se instaló y aprendió a trabajar con SQL, utilizando MySQL. Se convertieron, formatearon datos y generaron relatórios con las principales funciones de SQL.
+Con análisis en tiempo real, se logró obtener informaciones transformadoras para negocios o para las empresas.
 
 ---
 
