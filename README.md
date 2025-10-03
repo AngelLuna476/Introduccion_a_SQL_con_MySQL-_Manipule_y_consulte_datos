@@ -1,6 +1,6 @@
 <h1 align="center">Introducción a SQL con MySQL: Manipule y consulte datos</h1>
 
-<p align="center"><strong><em>Programa de especialización ONE TECH EXPLORER por parte de ORACLE NEX EDUCATION en conjunto con ALURA LATAM</em></strong></p>
+<p align="center"><strong><em>Programa de especialización ONE TECH EXPLORER por parte de ORACLE en conjunto con ALURA LATAM</em></strong></p>
 
 Se instaló y aprendió a trabajar con SQL, utilizando MySQL. Se convertieron, formatearon datos y generaron relatórios con las principales funciones de SQL.
 Con análisis en tiempo real, se logró obtener informaciones transformadoras para negocios o para las empresas.
